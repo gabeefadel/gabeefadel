@@ -26,11 +26,6 @@ I am a **Senior Fullstack Developer** with a decade of experience building robus
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### 📈 My GitHub Stats
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriella-fadel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriella-fadel&layout=compact&theme=dracula" />
-</p>
 
 ### 📫 Let's Connect!
 <p align="left">
