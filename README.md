@@ -4,7 +4,7 @@ I am a **Senior Fullstack Developer** with a decade of experience building robus
 
 ### ✨ About Me
 - 👩‍💻 **Senior Developer**: Committed to high-quality code and continuous technical evolution.
-- 🚀 **Current Focus**: T PHP/Laravel and Python (focusing on AI Agents and AWS Lambda).
+- 🚀 **Current Focus**: PHP/Laravel and Python (focusing on AI Agents and AWS Lambda).
 - 🌍 **Language Journey**: Actively improving my English for international tech environments.
 - 🎨 **Tech Aesthetic**: I believe that a professional environment can also be cozy and feminine. You can find my journey at **@thedevinpink**.
 
