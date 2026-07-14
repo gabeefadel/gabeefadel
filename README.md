@@ -1,6 +1,6 @@
 # Hi there, I'm Gabi! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzZDE4YjY0ZDA4YjY0ZDA4YjY0ZDA4YjY0ZDA4YjY0ZDA4JmVwaD12MV9pbnRlcm5hbF9naWZzX2dpZl9pZCZjdD1n/L1R1tvI9svvJC/giphy.gif" width="35px">
 
-I am a **Senior Fullstack Developer** with a decade of experience building robust digital solutions. Currently, I am leveraging my solid background in backend architecture to specialize in **AI Agents**, **Python automation**, and **Cloud Infrastructure**.
+I am a **Senior Fullstack Developer** with a decade of experience building robust digital solutions, **specializing in PHP and Laravel** backend development. Currently, I am leveraging this solid background in backend architecture to evolve into **AI Agents**, **Python automation**, and **Cloud Infrastructure**.
 
 ### ✨ About Me
 - 👩‍💻 **Senior Developer**: Committed to high-quality code and continuous technical evolution.
